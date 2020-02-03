@@ -1,0 +1,3 @@
+[submodule "3rd/LockFreeQueue"]
+	path = 3rd/LockFreeQueue
+	url = https://github.com/bhhbazinga/LockFreeQueue.git
